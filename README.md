@@ -9,12 +9,17 @@ learning_rate = 0.01
 training loss
 
 training accuracy
+
 validation loss 
+
 validation accuracy
 
 - MLP
 
 training loss 
+
 training accuracy
+
 validation loss 
+
 validation accuracy

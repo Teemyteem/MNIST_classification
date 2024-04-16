@@ -5,7 +5,9 @@ learning_rate = 0.01
 
 
 - LeNet-5
-training loss 
+
+training loss
+
 training accuracy
 validation loss 
 validation accuracy
